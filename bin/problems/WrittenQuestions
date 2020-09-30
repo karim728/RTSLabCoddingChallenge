@@ -1,0 +1,7 @@
+If you could change 1 thing about your favorite framework/language/platform (pick one), what would it be?
+
+One of my favorites languages is Java. It is vastly updating to keep up. For example, in Java 8 
+we have received the introduction of lambda functions and functional programming. In addition 
+to that, in Java 9  we received additional API and also new features such as REPL.	 
+I would like to change how parameters are accepted in java. For example being able to accept default 
+parameters values implicitly.
